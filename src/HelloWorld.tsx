@@ -1,9 +1,7 @@
-import React from 'react';
+import React from "react";
 
-const HelloWorld = () => {
-  return (
-      <h3>Hello World 23d</h3>
-  );
-};
+function HelloWorld() {
+  return <h3>Hello World</h3>;
+}
 
 export default HelloWorld;
